@@ -8,7 +8,7 @@
 
 <p> Right now, I'm trying to improve myself in Web Development.</p>
 <div>
-    <code>My programming skills:</code>
+    <code>Programming languages:</code>
 </div>
 <div>
     <img src="images/python.png" alt="python" width=30px>
