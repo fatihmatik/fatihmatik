@@ -1,5 +1,6 @@
 <h2>Hello! I'm Fatih</h2>
 
+** About me **
 <p>
     I'm a senior Mathematical Engineering student in Yildiz Technical University.
     I'm a motivated team player eager to learn and contribute to Data Science, Machine Learning, and Web Design fields.
