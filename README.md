@@ -8,7 +8,7 @@
 
 <p> Right now, I'm trying to improve myself in Web Development.</p>
 <div style="display:flex;">
-    <div>
+    <div style="margin-bottom: 20px;">
         <code>Programming languages:</code>
     </div>
     <div>
