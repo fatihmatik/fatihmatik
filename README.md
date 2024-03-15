@@ -1,11 +1,11 @@
 <h2>Hello! I'm Fatih</h2>
 
-<p style="text-align: center;"> I'm a senior Mathematical Engineering student in Yildiz Technical University
+<p style="display: flex; align-items: center; justify-content: center;">
+    I'm a senior Mathematical Engineering student in Yildiz Technical University <img src="images/ytu-logo.svg" alt="Image Description" style=" width: 20px; display: block;">
     I'm a motivated team player eager to learn and contribute to Data
     Science, Machine Learning, and Web Design fields.
     Currently, I am actively seeking experience to further
     develop my skills in a professional working environment.
-     sdfads<img src="images/ytu-logo.svg" alt="ytu" style="width: 20px; display: inline-block; vertical-align: middle;">
 </p>
 
 <p> Right now, I'm trying to improve myself in Web Development.</p>
