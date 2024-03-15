@@ -9,9 +9,9 @@
 <p> Right now, I'm trying to improve myself in Web Development.</p>
 
 <code>My programming skills:</code>
-<img src="images/python.png" alt="c-lang" width=20px>
-<img src="images/sql.png" alt="c-lang" width=20px height=20px>
-<img src="images/html.png" alt="c-lang" width=20px height=20px>
-<img src="images/css-3.png" alt="c-lang" width=20px height=20px>
-<img src="images/js.png" alt="c-lang" width=20px height=20px>
-<img src="images/c-lang.png" alt="c-lang" width=20px height=20px>
+<img src="images/python.png" alt="python" width=30px>
+<img src="images/sql.png" alt="sql" width=30px>
+<img src="images/html.png" alt="html" width=30px>
+<img src="images/css-3.png" alt="css" width=30px>
+<img src="images/js.png" alt="js" width=30px>
+<img src="images/c-lang.png" alt="c-lang" width=30px>
