@@ -1,4 +1,4 @@
-##Hello, I'm Fatih, I'm a Mathematical Engineering student
+<h2>Hello, I'm Fatih, I'm a Mathematical Engineering student</h2>
 
 <p>I am a motivated team player eager to learn and contribute to Data
     Science, Machine Learning, and Web Design fields.
