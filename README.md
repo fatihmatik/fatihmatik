@@ -1,6 +1,6 @@
 <h2>Hello! I'm Fatih</h2>
 
-<p>I'm a senior Mathematical Engineering student in Yildiz Technical University <img style="height: 30px display: inline-block; vertical-align: middle;" src="images/ytu-logo.svg"> 
+<p>I'm a senior Mathematical Engineering student in Yildiz Technical University <img style="height: 30px; display: inline-block; vertical-align: middle;" src="images/ytu-logo.svg"> 
     I'm a motivated team player eager to learn and contribute to Data
     Science, Machine Learning, and Web Design fields.
     Currently, I am actively seeking experience to further
