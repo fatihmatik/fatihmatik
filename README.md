@@ -2,9 +2,9 @@
 
 <b> About me </b>
 <p>
-    I'm a senior Mathematical Engineering student in Yildiz Technical University.
-    I'm a motivated team player eager to learn and contribute to Data Science, Machine Learning, and Web Design fields.
-    Currently, I am actively seeking experience to further develop my skills in a professional working environment.
+    I'm a senior Mathematical Engineering student at Yildiz Technical University.
+    I'm a motivated team player, eager to learn and contribute to the fields of Data Science, Machine Learning, and Web Development.
+    Currently, I am actively seeking experience to further develop my skills in a professional working environment."
 </p>
 
 <p> Right now, I'm trying to improve myself in Web Development.</p>
