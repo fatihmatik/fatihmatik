@@ -1,6 +1,7 @@
-<h2>Hello, I'm Fatih, I'm a Mathematical Engineering student</h2>
+<h2>Hello! I'm Fatih</h2>
 
-<p>I am a motivated team player eager to learn and contribute to Data
+<p>I'm a senior Mathematical Engineering student in Yildiz Technical University <img style="height: 20px;" src="images/ytu-logo.svg">
+    I'm a motivated team player eager to learn and contribute to Data
     Science, Machine Learning, and Web Design fields.
     Currently, I am actively seeking experience to further
     develop my skills in a professional working environment.
