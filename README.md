@@ -10,7 +10,7 @@
 <p> Right now, I'm trying to improve myself in Web Development.</p>
 <div style="display:flex;">
     <div>
-        <code>Programming languages:</code>
+        <code>My Skills:</code>
     </div>
     <div>
         <img src="images/python.png" alt="python" width=30px>
