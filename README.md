@@ -4,10 +4,10 @@
 <p>
     I'm a senior Mathematical Engineering student at Yildiz Technical University.
     I'm a motivated team player, eager to learn and contribute to the fields of Data Science, Machine Learning, and Web Development.
-    Currently, I am actively seeking experience to further develop my skills in a professional working environment."
+    Currently, I am actively seeking experience to further develop my skills in a professional working environment.
 </p>
 
-<p> Right now, I'm trying to improve myself in Web Development.</p>
+<p> Right now, I'm trying to improve myself in the areas of Web Development and Machine Learning</p>
 <div style="display:flex;">
     <div>
         <code>My Skills:</code>
