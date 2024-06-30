@@ -8,6 +8,9 @@
 </p>
 
 <p> Right now, I'm trying to improve myself in the areas of Web Development and Machine Learning</p>
+<a href="https://fatihmatik.github.io/portfoglio-react/"> Visit My Portfoglio!/</a>
+<hr>
+
 <div style="display:flex;">
     <div>
         <code>My Skills:</code>
